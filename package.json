@@ -1,6 +1,6 @@
 {
   "name": "@cluejs/gulp-env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Enviroment helper for gulp (not only, really) tasks",
   "main": "index.js",
   "scripts": {},
@@ -9,5 +9,14 @@
   "license": "ISC",
   "dependencies": {
     "gulp-util": "^3.0.8"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cluejs/gulp-env.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cluejs/gulp-env/issues"
+  },
+  "homepage": "https://github.com/cluejs/gulp-env#readme"
 }
