@@ -1,11 +1,11 @@
 {
-  "name": "gulp-env",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@cluejs/gulp-env",
+  "version": "1.0.1",
+  "description": "Enviroment helper for gulp (not only, really) tasks",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "demian_dark",
   "license": "ISC",
   "dependencies": {
     "gulp-util": "^3.0.8"
